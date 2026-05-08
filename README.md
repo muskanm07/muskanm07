@@ -7,7 +7,7 @@ const muskan = {
   role: "Frontend Developer",
   status: "Building in public 🔥",
   learning: ["React.js", "JavaScript", "MERN Stack"],
-  goal: "Software Developer @ Dream Company",
+  goal: "Software Developer @ MicroSoft Company",
   currentStreak: "Coding daily 💪",
   funFact: "82+ developers cloned my JS practice repo — organically!! 🤯"
 }
