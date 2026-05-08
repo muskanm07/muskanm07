@@ -118,5 +118,5 @@ Contributing to open source as a Frontend Developer!! 🔥
 *Made with 💙 | Coded at 11PM | Fueled by cold coffee ☕*
 
 </div>
-```
+
 
