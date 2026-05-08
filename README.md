@@ -95,8 +95,6 @@ I'm a **BCA graduate** from Kanpur, India — learning, building, and shipping e
 ```
 ## 🤝 Open Source
 
-[![GSSoC](https://img.shields.io/badge/GirlScript_Summer_of_Code-2026-orange?style=for-the-badge)](https://gssoc.girlscript.tech/)
-
 Contributing to open source as a Frontend Developer!! 🔥
 
 ---
@@ -110,9 +108,7 @@ Contributing to open source as a Frontend Developer!! 🔥
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muskanm07)
 
 </div>
-```
----
-```
+
 <div align="center">
 
 ⭐ **If my repos helped you — drop a star!! It means everything!! 🙏**
