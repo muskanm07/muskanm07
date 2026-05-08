@@ -7,7 +7,7 @@ const muskan = {
   role: "Frontend Developer",
   status: "Building in public 🔥",
   learning: ["React.js", "JavaScript", "MERN Stack"],
-  goal: "Software Developer @ Microsoft Company",
+  goal: "Software Developer @ Dream Company",
   currentStreak: "Coding daily 💪",
   funFact: "82+ developers cloned my JS practice repo — organically!! 🤯"
 }
@@ -55,16 +55,17 @@ I'm a **BCA graduate** from Kanpur, India — learning, building, and shipping e
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
-📊 GitHub Stats
+
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muskanm07&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanm07&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanm07&theme=tokyonight&hide_border=true" />
 </div>
-
-
 
 ---
 
@@ -77,9 +78,11 @@ I'm a **BCA graduate** from Kanpur, India — learning, building, and shipping e
 | [💬 Chat App](https://github.com/muskanm07/Pantry-Tracker) | MERN Stack | Full-stack app with REST APIs + MongoDB |
 | [🎮 Simon Says](https://github.com/muskanm07/Simon-Says-Game) | JavaScript | Classic game built with DOM manipulation |
 
+---
 
+## 📅 My Daily Routine
 
-```
+ code , debug , sleep
 
 ---
 
@@ -91,7 +94,6 @@ I'm a **BCA graduate** from Kanpur, India — learning, building, and shipping e
 - 🔥 Building full MERN stack projects
 
 ---
-```
 
 ## 📬 Connect With Me
 
@@ -103,6 +105,8 @@ I'm a **BCA graduate** from Kanpur, India — learning, building, and shipping e
 
 </div>
 
+---
+
 <div align="center">
 
 ⭐ **If my repos helped you — drop a star!! It means everything!! 🙏**
@@ -112,5 +116,4 @@ I'm a **BCA graduate** from Kanpur, India — learning, building, and shipping e
 *Made with 💙 | Coded at 11PM | Fueled by cold coffee ☕*
 
 </div>
-
 
