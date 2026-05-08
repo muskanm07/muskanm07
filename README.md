@@ -78,7 +78,6 @@ I'm a **BCA graduate** from Kanpur, India — learning, building, and shipping e
 | [💬 Chat App](https://github.com/muskanm07/Pantry-Tracker) | MERN Stack | Full-stack app with REST APIs + MongoDB |
 | [🎮 Simon Says](https://github.com/muskanm07/Simon-Says-Game) | JavaScript | Classic game built with DOM manipulation |
 
----
 
 
 ```
@@ -93,7 +92,7 @@ I'm a **BCA graduate** from Kanpur, India — learning, building, and shipping e
 - 🔥 Building full MERN stack projects
 
 ---
-
+```
 ## 🤝 Open Source
 
 [![GSSoC](https://img.shields.io/badge/GirlScript_Summer_of_Code-2026-orange?style=for-the-badge)](https://gssoc.girlscript.tech/)
@@ -113,7 +112,7 @@ Contributing to open source as a Frontend Developer!! 🔥
 </div>
 ```
 ---
-
+```
 <div align="center">
 
 ⭐ **If my repos helped you — drop a star!! It means everything!! 🙏**
@@ -123,18 +122,5 @@ Contributing to open source as a Frontend Developer!! 🔥
 *Made with 💙 | Coded at 11PM | Fueled by cold coffee ☕*
 
 </div>
+```
 
-<!--
-**muskanm07/muskanm07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
