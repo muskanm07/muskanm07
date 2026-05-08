@@ -7,7 +7,7 @@ const muskan = {
   role: "Frontend Developer",
   status: "Building in public 🔥",
   learning: ["React.js", "JavaScript", "MERN Stack"],
-  goal: "Software Developer @ Dream Company",
+  goal: "Software Developer @ Microsoft Company",
   currentStreak: "Coding daily 💪",
   funFact: "82+ developers cloned my JS practice repo — organically!! 🤯"
 }
@@ -80,16 +80,7 @@ I'm a **BCA graduate** from Kanpur, India — learning, building, and shipping e
 
 ---
 
-## 📅 My Daily Routine
 
-```
-06:30 AM  →  Wake up 🌅
-06:45 AM  →  Walk + Stretch + Meditation 🧘
-07:15 AM  →  English speaking practice 🗣️
-07:30 AM  →  Read Atomic Habits 📚
-08:00 AM  →  Coding begins 💻
-11:00 PM  →  GitHub push 🟩
-11:05 PM  →  Sleep (repeat tomorrow) 😴
 ```
 
 ---
