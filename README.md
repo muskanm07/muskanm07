@@ -95,6 +95,13 @@ I'm a **BCA graduate** from Kanpur, India — learning, building, and shipping e
 
 ---
 
+
+
+🤝 Open Source
+Show Image
+Contributing to open source as a Frontend Developer!! 🔥
+---
+
 ## 📬 Connect With Me
 
 <div align="center">
