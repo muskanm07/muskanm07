@@ -80,12 +80,12 @@ Most music apps give you a genre dropdown. Emotune lets you describe your mood i
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskanm07&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=5EEAD4&text_color=9CA3AF" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanm07&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=9CA3AF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muskanm07&show_icons=true&hide_border=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanm07&layout=compact&hide_border=true&theme=tokyonight" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanm07&hide_border=true&background=0d0d0d&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA&sideLabels=9CA3AF&dates=6B7280"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanm07&hide_border=true&theme=tokyonight"/>
 </div>
 
 ---
