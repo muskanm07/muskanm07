@@ -1,127 +1,128 @@
-# Hi there, I'm Muskan Maurya 👋
-
 <div align="center">
 
-```javascript
-const muskan = {
-  role: "Frontend Developer",
-  status: "Building in public 🔥",
-  learning: ["React.js", "JavaScript", "MERN Stack"],
-  goal: "Software Developer @ MicroSoft Company",
-  currentStreak: "Coding daily 💪",
-  funFact: "82+ developers cloned my JS practice repo — organically!! 🤯"
-}
 ```
+███╗   ███╗██╗   ██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗
+████╗ ████║██║   ██║██╔════╝██║ ██╔╝██╔══██╗████╗  ██║
+██╔████╔██║██║   ██║███████╗█████╔╝ ███████║██╔██╗ ██║
+██║╚██╔╝██║██║   ██║╚════██║██╔═██╗ ██╔══██║██║╚██╗██║
+██║ ╚═╝ ██║╚██████╔╝███████║██║  ██╗██║  ██║██║ ╚████║
+╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+### Frontend Developer · GSSoC 2026 · BCA 2026 · Building in public
+
+*"Future Muskan is depending on what I do tonight."*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-maurya-1344202b2/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanmaurya553@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muskanm07)
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=muskanm07.muskanm07)](https://github.com/muskanm07)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## $ whoami
 
-> *"Future Muskan is depending on what I do tonight."*
-
-I'm a **BCA graduate** from Kanpur, India — learning, building, and shipping every single day!!
-
-- 🌱 Currently mastering **React.js** and **Frontend Development**
-- 💻 Building real projects daily — not just watching tutorials!!
-- 📚 Reading **Atomic Habits** — applying it to coding discipline!!
-- 🎯 Goal: Land my first **Software Developer** role
-- ☕ Powered by **cold coffee** at 11PM coding sessions!!
+```javascript
+const muskan = {
+  role        : "Frontend Developer",
+  location    : "India — open to remote & international",
+  status      : "Actively looking for junior frontend roles",
+  building    : ["Climora (live)", "Emotune (in progress)"],
+  currentFocus: ["React.js", "Gemini API", "DSA in Java"],
+  openSource  : "GirlScript Summer of Code 2026 contributor",
+  funFact     : "82+ developers cloned my JS practice repo — organically"
+}
+```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Featured Projects
 
-**Frontend:**
+<table>
+<tr>
+<td width="50%">
+
+### 🌤 Climora — Live
+Weather app with real personality.
+
+- Dynamic video backgrounds per weather state
+- Shareable city routes via URL params
+- Glassmorphism UI · localStorage recent searches
+- Deployed on Netlify
+
+**Stack:** React · Tailwind · OpenWeatherMap API · Vite
+
+[![Live](https://img.shields.io/badge/Live%20Demo-visit-7C3AED?style=flat-square)](https://climora.netlify.app)
+[![Repo](https://img.shields.io/badge/Source-GitHub-333?style=flat-square&logo=github)](https://github.com/muskanm07/climora)
+
+</td>
+<td width="50%">
+
+### 🎵 Emotune — Building
+AI mood-based music recommender.
+
+- Describe how you feel in plain text
+- Gemini API parses emotional nuance
+- Returns Spotify-embedded tracks that fit
+- Dark mode · purple branding · mood color chips
+
+**Stack:** React · Tailwind · Gemini API · Spotify Embed
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-FCD34D?style=flat-square)
+[![Repo](https://img.shields.io/badge/Source-GitHub-333?style=flat-square&logo=github)](https://github.com/muskanm07/emotune)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Stack
+
+**Comfortable with:**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend (Learning):**
-
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools:**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Currently learning:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Arrays%20→%20Hashmaps-333?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskanm07&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanm07&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muskanm07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=5EEAD4&text_color=9CA3AF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanm07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=9CA3AF" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanm07&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanm07&theme=tokyonight&hide_border=true&background=0d0d0d&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA" />
 </div>
-
----
-
-## 🏆 Featured Projects
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| [📝 JS Practice](https://github.com/muskanm07/JavaScript-Practice) | JavaScript | 82+ unique cloners!! Comprehensive JS notes + exercises |
-| [⚛️ React Practice](https://github.com/muskanm07/React-Practice) | React.js | Daily React learning — components, hooks, projects |
-| [💬 Chat App](https://github.com/muskanm07/Pantry-Tracker) | MERN Stack | Full-stack app with REST APIs + MongoDB |
-| [🎮 Simon Says](https://github.com/muskanm07/Simon-Says-Game) | JavaScript | Classic game built with DOM manipulation |
-
----
-
-## 📅 My Daily Routine
-
- code , debug , sleep
-
----
-
-## 🌱 Currently Learning
-
-- ⚛️ React.js — Hooks, Components, State Management
-- 🔄 useEffect + Fetch API
-- 🗺️ React Router
-- 🔥 Building full MERN stack projects
 
 ---
 
 ## 🤝 Open Source
 
-[![GSSoC](https://img.shields.io/badge/GirlScript_Summer_of_Code-2026-orange?style=for-the-badge)](https://gssoc.girlscript.tech/)
+[![GSSoC 2026](https://img.shields.io/badge/GirlScript_Summer_of_Code-2026-F97316?style=for-the-badge)](https://gssoc.girlscript.tech/)
 
-Contributing to open source as a Frontend Developer!! 🔥
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-maurya-1344202b2/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanmaurya553@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muskanm07)
-
-</div>
+Contributing as a **Frontend Developer** — reviewing PRs, fixing UI bugs, and improving component accessibility across open-source projects.
 
 ---
 
 <div align="center">
 
-⭐ **If my repos helped you — drop a star!! It means everything!! 🙏**
+**Open to junior frontend roles — remote, India, or international.**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=muskanm07.muskanm07)
-
-*Made with 💙 | Coded at 11PM | Fueled by cold coffee ☕*
+If my repos helped you, a ⭐ means a lot for a fresher's portfolio.
 
 </div>
-
