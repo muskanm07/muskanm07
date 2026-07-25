@@ -1,7 +1,8 @@
 <div align="center">
 
-# Muskan Maurya
-### Frontend Developer · BCA 2026 · GSSoC 2026 · Open to Work
+# Hi, I'm Muskan 👋
+
+### Frontend Developer · BCA 2026 · GSSoC 2026 Contributor · Open to Work
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-maurya-1344202b2/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanmaurya553@gmail.com)
@@ -14,28 +15,29 @@
 
 ---
 
-## About
+## 🧭 About Me
 
-Frontend developer focused on shipping real products — not tutorial clones. I build with React, Tailwind CSS, and now AI APIs. Currently adding DSA (Java) to the stack.
+I'm a self-taught frontend developer who builds and ships real, working products — not tutorial clones. My stack is React, Tailwind CSS, and increasingly AI-powered APIs (Gemini). I'm currently deepening my fundamentals with DSA in Java.
 
-- 🟢 Actively looking for junior frontend roles — remote, India, international
-- 🔥 GSSoC 2026 contributor — open source frontend work
-- 📦 82+ developers cloned my JS practice repo organically — zero promotion
-- 📖 BCA graduate, Naraina College of Engineering & Technology, Kanpur · 7.96 CGPA
+- 🟢 **Actively looking for junior frontend roles** — Bangalore, remote, and international
+- 🔥 **GSSoC 2026 contributor** — shipping fixes and UI improvements on open-source React projects
+- 📦 **82+ developers** cloned my JS practice repo organically, with zero promotion
+- 🎓 **BCA graduate**, Naraina College of Engineering & Technology, Kanpur — **7.96 CGPA**
+- 🧩 Sharpening problem-solving through daily **DSA practice in Java**
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### 🌤 Climora — Live Weather App
-> Built in 20 days. Deployed. Actually works.
+**Built in 20 days. Deployed. Actually works.**
 
 A weather app with features most tutorial projects skip entirely.
 
 - **5-day forecast** with hourly breakdown
 - **Search history** saved via localStorage — persists across sessions
 - **React Router navigation** — every city gets its own shareable URL
-- **Dynamic video backgrounds** — changes based on live weather condition
+- **Dynamic video backgrounds** — changes based on live weather conditions
 - **Glassmorphism UI** built entirely with Tailwind CSS
 - Fully mobile responsive · Netlify deployed
 
@@ -44,26 +46,26 @@ A weather app with features most tutorial projects skip entirely.
 [![Live Demo](https://img.shields.io/badge/▶_Live_Demo-climora--by--muskan.netlify.app-7C3AED?style=for-the-badge)](https://climora-by-muskan.netlify.app)
 [![Source](https://img.shields.io/badge/Source-GitHub-0d0d0d?style=for-the-badge&logo=github)](https://github.com/muskanm07/climora)
 
----
+<br>
 
 ### 🎵 Emotune — AI Mood Music Recommender
-> In active development. UI complete.
+**Complete. Deployed.**
 
-Most music apps give you a genre dropdown. Emotune lets you describe your mood in plain text — Gemini AI reads the emotional nuance and returns a Spotify playlist that actually fits.
+Most music apps give you a genre dropdown. Emotune lets you describe your mood in plain text — Gemini AI reads the emotional nuance and returns tracks that actually fit.
 
-- Free-text mood input — no categories, no dropdowns
-- Gemini API interprets emotional texture, not just keywords
-- Spotify embedded playback — no redirects
-- Mood color chips · dark mode · purple branding
+- **Free-text mood input** — no categories, no dropdowns
+- **Gemini API** interprets emotional texture, not just keywords
+- **Instant track previews** via the iTunes Search API — no login required
+- **Mood history**, mood color chips, dark mode, purple branding
 
-`React` `Tailwind CSS` `Gemini API` `Spotify Embed` `React Router`
+`React` `Tailwind CSS` `Gemini API` `iTunes API` `React Router`
 
-![Status](https://img.shields.io/badge/Status-Building-FCD34D?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-emotune--by--muskan.netlify.app-7C3AED?style=for-the-badge)](https://emotune-by-muskan.netlify.app)
 [![Source](https://img.shields.io/badge/Source-GitHub-0d0d0d?style=for-the-badge&logo=github)](https://github.com/muskanm07/emotune)
 
 ---
 
-## Stack
+## 🛠 Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -77,7 +79,7 @@ Most music apps give you a genre dropdown. Emotune lets you describe your mood i
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muskanm07&show_icons=true&hide_border=true&theme=tokyonight" height="160"/>
@@ -90,18 +92,18 @@ Most music apps give you a genre dropdown. Emotune lets you describe your mood i
 
 ---
 
-## Open Source
+## 🌱 Open Source
 
 [![GSSoC 2026](https://img.shields.io/badge/GirlScript_Summer_of_Code-2026_Contributor-F97316?style=for-the-badge)](https://gssoc.girlscript.tech/)
 
-Contributing as a frontend developer — component fixes, UI improvements, accessibility work on open-source React projects.
+Contributing as a frontend developer — component fixes, UI improvements, and accessibility work on open-source React projects.
 
 ---
 
 <div align="center">
 
-**If any repo saved you time — a ⭐ takes 2 seconds and means everything to a fresher building in public.**
+**If any repo here saved you time — a ⭐ takes 2 seconds and means a lot to a fresher building in public.**
 
-Open to frontend roles · Remote · India · Dubai · Anywhere
+📍 Open to frontend roles · Remote · India · International
 
 </div>
