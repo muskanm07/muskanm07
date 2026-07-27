@@ -1,109 +1,76 @@
-<div align="center">
-
 # Hi, I'm Muskan 👋
 
-### Frontend Developer · BCA 2026 · GSSoC 2026 Contributor · Open to Work
+Self-taught frontend developer building React apps with a focus on clean UI, real API integrations, and a bit of AI on top. Always shipping something.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-maurya-1344202b2/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanmaurya553@gmail.com)
-[![Follow](https://img.shields.io/github/followers/muskanm07?label=Follow&style=for-the-badge&color=7C3AED&logo=github&logoColor=white)](https://github.com/muskanm07)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=muskanm07.muskanm07)](https://github.com/muskanm07)
-
-*"Future Muskan is depending on what I do tonight."*
-
-</div>
+- 🎓 BCA graduate (2026), Naraina College of Engineering & Technology, Kanpur
+- 💻 Core stack: React, Vite, Tailwind CSS, JavaScript, REST APIs
+- 🌱 Currently deepening TypeScript and exploring frontend + AI integrations
+- 📫 Reach me at muskanmaurya553@gmail.com
 
 ---
 
-## 🧭 About Me
-
-I'm a self-taught frontend developer who builds and ships real, working products — not tutorial clones. My stack is React, Tailwind CSS, and increasingly AI-powered APIs (Gemini). I'm currently deepening my fundamentals with DSA in Java.
-
-- 🟢 **Actively looking for junior frontend roles** — Bangalore, remote, and international
-- 🔥 **GSSoC 2026 contributor** — shipping fixes and UI improvements on open-source React projects
-- 📦 **82+ developers** cloned my JS practice repo organically, with zero promotion
-- 🎓 **BCA graduate**, Naraina College of Engineering & Technology, Kanpur — **7.96 CGPA**
-- 🧩 Sharpening problem-solving through daily **DSA practice in Java**
-
----
-
-## 🚀 Projects
-
-### 🌤 Climora — Live Weather App
-**Built in 20 days. Deployed. Actually works.**
-
-A weather app with features most tutorial projects skip entirely.
-
-- **5-day forecast** with hourly breakdown
-- **Search history** saved via localStorage — persists across sessions
-- **React Router navigation** — every city gets its own shareable URL
-- **Dynamic video backgrounds** — changes based on live weather conditions
-- **Glassmorphism UI** built entirely with Tailwind CSS
-- Fully mobile responsive · Netlify deployed
-
-`React` `React Router` `Tailwind CSS` `Vite` `OpenWeatherMap API` `localStorage`
-
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-climora--by--muskan.netlify.app-7C3AED?style=for-the-badge)](https://climora-by-muskan.netlify.app)
-[![Source](https://img.shields.io/badge/Source-GitHub-0d0d0d?style=for-the-badge&logo=github)](https://github.com/muskanm07/climora)
-
-<br>
-
-### 🎵 Emotune — AI Mood Music Recommender
-**Complete. Deployed.**
-
-Most music apps give you a genre dropdown. Emotune lets you describe your mood in plain text — Gemini AI reads the emotional nuance and returns tracks that actually fit.
-
-- **Free-text mood input** — no categories, no dropdowns
-- **Gemini API** interprets emotional texture, not just keywords
-- **Instant track previews** via the iTunes Search API — no login required
-- **Mood history**, mood color chips, dark mode, purple branding
-
-`React` `Tailwind CSS` `Gemini API` `iTunes API` `React Router`
-
-[![Live Demo](Live_Demo-emotune--mood.netlify.app-7C3AED?style=for-the-badge)](https://emotune-by-muskan.netlify.app)
-[![Source](https://img.shields.io/badge/Source-GitHub-0d0d0d?style=for-the-badge&logo=github)](https://github.com/muskanm07/emotune)
-
----
-
-## 🛠 Stack
+## 🛠️ Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java_·_DSA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskanm07&show_icons=true&hide_border=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanm07&layout=compact&hide_border=true&theme=tokyonight" height="160"/>
-</div>
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muskanm07&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanm07&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanm07&hide_border=true&theme=tokyonight"/>
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muskanm07&theme=radical&hide_border=true)
 
 ---
 
-## 🌱 Open Source
+## 🚀 Projects
 
-[![GSSoC 2026](https://img.shields.io/badge/GirlScript_Summer_of_Code-2026_Contributor-F97316?style=for-the-badge)](https://gssoc.girlscript.tech/)
+### 🌦️ [Climora](https://climora-by-muskan.netlify.app)
+A weather app built with React, Vite, and Tailwind CSS.
 
-Contributing as a frontend developer — component fixes, UI improvements, and accessibility work on open-source React projects.
+- 5-day forecast with dynamic, weather-based video backgrounds and a glassmorphism UI
+- URL-based city routing — search results are shareable via link
+- localStorage-powered search history and last-viewed weather
+- 80+ organic GitHub clones
+
+**Tech:** React · Vite · Tailwind CSS · Weather API · localStorage
+
+🔗 Live: [climora-by-muskan.netlify.app](https://climora-by-muskan.netlify.app)
 
 ---
 
-<div align="center">
+### 🎧 Emotune
+An AI-powered, mood-based music recommender. Tell it how you're feeling, and it curates a matching playlist.
 
-**If any repo here saved you time — a ⭐ takes 2 seconds and means a lot to a fresher building in public.**
+- Mood input parsed and matched to song recommendations using the Gemini API
+- Song results with embedded playback via the iTunes API
+- Mood/search history saved with localStorage
+- Built-in rate-limit handling — the input form is replaced by a loader once a mood is submitted, preventing repeated API calls
 
-📍 Open to frontend roles · Remote · India · International
+**Tech:** React · Vite · Tailwind CSS · Gemini API · iTunes API · localStorage
 
-</div>
+🔗 Live: [emotune-mood.netlify.app](https://emotune-mood.netlify.app)
+
+---
+
+## 📫 Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/muskan-maurya-1344202b2/)
+- 💻 [GitHub](https://github.com/muskanm07)
+- ✉️ muskanmaurya553@gmail.com
+- 📄 Resume: *add your resume link here*
+
+---
+
+⭐️ Thanks for stopping by — feel free to explore my repos and reach out if you'd like to collaborate!
