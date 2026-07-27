@@ -60,7 +60,7 @@ Most music apps give you a genre dropdown. Emotune lets you describe your mood i
 
 `React` `Tailwind CSS` `Gemini API` `iTunes API` `React Router`
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-emotune--by--muskan.netlify.app-7C3AED?style=for-the-badge)](https://emotune-by-muskan.netlify.app)
+[![Live Demo](Live_Demo-emotune--mood.netlify.app-7C3AED?style=for-the-badge)](https://emotune-by-muskan.netlify.app)
 [![Source](https://img.shields.io/badge/Source-GitHub-0d0d0d?style=for-the-badge&logo=github)](https://github.com/muskanm07/emotune)
 
 ---
