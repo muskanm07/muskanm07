@@ -65,7 +65,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muskanm07&theme=radical&no-frame=true&row=1&column=6/>
+<img src="https://github-profile-trophy.vercel.app/?username=muskanm07&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 <br/>
@@ -105,7 +105,7 @@ An AI-powered, mood-based music recommender — tell it how you feel, get a matc
 
 **Tech:** React · Vite · Tailwind CSS · Gemini API · iTunes API · localStorage
 
-🔗 **Live:** [emotune-mood.netlify.app](https://emotune-mood.netlify.app)
+🔗 **Live:** *add your Emotune deployment link here*
 
 </td>
 </tr>
@@ -122,6 +122,7 @@ An AI-powered, mood-based music recommender — tell it how you feel, get a matc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-maurya-1344202b2/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muskanm07)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanmaurya553@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](#)
 
 <br/><br/>
 
