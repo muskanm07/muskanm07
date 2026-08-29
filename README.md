@@ -1,78 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20Muskan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%2B+Vite+%2B+Tailwind;Building+Frontend+%2B+AI+projects;Always+shipping+something+new" alt="Typing SVG" /></a>
+<!--                         HERO                                   -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Muskan%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+React+%26+Vite;Building+clean+%2B+useful+web+experiences;Frontend+%2B+AI+%2B+real-world+APIs;Turning+ideas+into+shipped+products+🚀" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-maurya-1344202b2/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muskanm07)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanmaurya553@gmail.com)
+<a href="https://github.com/muskanm07">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/muskan-maurya-1344202b2/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:muskanmaurya553@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=muskanm07&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=muskanm07&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
 
 </div>
-
-<br/>
-
-## 🙋‍♀️ About Me
-
-- 🎓 BCA graduate (2026), Naraina College of Engineering & Technology, Kanpur
-- 💻 Self-taught frontend developer — clean UI, real API integrations, a bit of AI on top
-- 🌱 Currently deepening **TypeScript** and exploring **frontend + AI** integrations
-- 🔭 Building projects that combine polished UI with real, working AI/data APIs — not just tutorials
-- 📫 Reach me at **muskanmaurya553@gmail.com**
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muskanm07&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanm07&layout=compact&theme=radical&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanm07&theme=radical&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muskanm07&theme=redical&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muskanm07&theme=radical&no-frame=true&row=1&column=6" />
-</div>
-
-<br/>
 
 ---
 
-## 🚀 Featured Projects
+## 🧊 `whoami`
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Hey, I'm Muskan.
+
+I'm a **Frontend Developer** who enjoys turning ideas into interfaces that are not only visually clean, but actually **work**.
+
+🎓 BCA Graduate — 2026
+⚛️ React-focused frontend developer
+🎨 UI-focused & detail-oriented
+🔌 Comfortable working with real APIs
+🤖 Exploring **Frontend + AI**
+🌱 Currently strengthening **TypeScript**
+
+I don't want to just build another tutorial project.
+
+I want to understand **why something should exist, how users will interact with it, and how to make it better.**
+
+</td>
+
+<td width="45%" valign="top">
+
+```text
+╭─────────────────────────────────╮
+│                                 │
+│   $ muskan --status             │
+│                                 │
+│   role      → Frontend Dev      │
+│   stack     → React             │
+│   focus     → UI + AI           │
+│   learning  → TypeScript       │
+│   mindset   → Build > copy      │
+│                                 │
+│   status: shipping 🚀           │
+│                                 │
+╰─────────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ What I Build
+
+<div align="center">
+
+|             🎨 UI             |          ⚛️ Frontend         |         🔌 APIs         |           🤖 AI           |
+| :---------------------------: | :--------------------------: | :---------------------: | :-----------------------: |
+| Clean & responsive interfaces |         React + Vite         |  REST / real-world APIs |   AI-powered experiences  |
+|   Glassmorphism & modern UI   | Component-based architecture | API-driven applications |    Gemini integrations    |
+|     Mobile-first thinking     |       State management       |       localStorage      | AI + frontend experiments |
+
+</div>
+
+---
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vscode" />
+
+### Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=ts" />
+
+<br/><br/>
+
+`React` · `JavaScript` · `TypeScript` · `Vite` · `Tailwind CSS` · `HTML5` · `CSS3`
+`Git` · `GitHub` · `Figma` · `REST APIs` · `localStorage` · `Gemini API`
+
+</div>
+
+---
+
+# 🚀 Featured Builds
+
+> Not just projects. **Things I've actually built, debugged, redesigned and shipped.**
 
 <br/>
 
@@ -80,32 +126,61 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌦️ [Climora](https://climora-by-muskan.netlify.app)
-A weather app built with React, Vite, and Tailwind CSS.
+## 🌦️ Climora
 
-- 5-day forecast with dynamic, weather-based video backgrounds and glassmorphism UI
-- URL-based city routing — shareable search results
-- localStorage-powered search history and last-viewed weather
-- 80+ organic GitHub clones
+### Weather, but make it feel alive.
 
-**Tech:** React · Vite · Tailwind CSS · Weather API · localStorage
+A weather application focused on making weather information feel more immersive through dynamic visuals and a clean glassmorphism interface.
 
-🔗 **Live:** [climora-by-muskan.netlify.app](https://climora-by-muskan.netlify.app)
+**Highlights**
+
+* 🌤️ 5-day weather forecast
+* 🎥 Dynamic weather-based backgrounds
+* 🔗 URL-based city routing
+* 💾 Persistent search history
+* 📍 Last-viewed weather saved locally
+* 📱 Responsive UI
+
+**Built with**
+
+`React` `Vite` `Tailwind CSS`
+`Weather API` `localStorage`
+
+<br/>
+
+<a href="https://climora-by-muskan.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🎧 Emotune
-An AI-powered, mood-based music recommender — tell it how you feel, get a matching playlist.
+## 🎧 Emotune
 
-- Mood input parsed and matched to song recommendations via the **Gemini API**
-- Song results with embedded playback via the **iTunes API**
-- Mood/search history saved with localStorage
-- Built-in rate-limit protection — the input form is swapped for a loader once submitted
+### Your mood → your music.
 
-**Tech:** React · Vite · Tailwind CSS · Gemini API · iTunes API · localStorage
+An AI-powered mood-based music recommender that turns natural-language feelings into personalized song recommendations.
 
-🔗 **Live:** [emotune-mood.netlify.app](https://emotune-mood.netlify.app)
+**Highlights**
+
+* 🧠 Mood interpretation using Gemini
+* 🎵 Song discovery via iTunes API
+* ▶️ Embedded playback
+* 💾 Search & mood history
+* 🛡️ Rate-limit protection
+* ⚡ Responsive interactive UI
+
+**Built with**
+
+`React` `Vite` `Tailwind CSS`
+`Gemini API` `iTunes API` `localStorage`
+
+<br/>
+
+<a href="https://emotune-mood.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-EC4899?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -113,21 +188,205 @@ An AI-powered, mood-based music recommender — tell it how you feel, get a matc
 
 <br/>
 
+<div align="center">
+
+### 💡 More projects are on the way...
+
+`Build → Break → Debug → Learn → Improve → Ship`
+
+</div>
+
 ---
 
-## 📫 Let's Connect
+# 🧠 How I Think About Development
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-maurya-1344202b2/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muskanm07)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanmaurya553@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](#)
+```text
+             ┌───────────────────────┐
+             │       AN IDEA 💡      │
+             └───────────┬───────────┘
+                         ↓
+             ┌───────────────────────┐
+             │     UNDERSTAND IT     │
+             └───────────┬───────────┘
+                         ↓
+             ┌───────────────────────┐
+             │       BUILD IT        │
+             └───────────┬───────────┘
+                         ↓
+             ┌───────────────────────┐
+             │      BREAK IT 💥      │
+             └───────────┬───────────┘
+                         ↓
+             ┌───────────────────────┐
+             │      DEBUG IT 🔧      │
+             └───────────┬───────────┘
+                         ↓
+             ┌───────────────────────┐
+             │      SHIP IT 🚀       │
+             └───────────────────────┘
+```
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muskanm07&show_icons=true&hide_border=true&count_private=true&theme=radical" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanm07&layout=compact&hide_border=true&theme=radical" height="180"/>
 
 <br/><br/>
 
-⭐️ *Thanks for stopping by — feel free to explore my repos and reach out if you'd like to collaborate!*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanm07&theme=radical&hide_border=true" width="70%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muskanm07&theme=react-dark&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=muskanm07&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="95%"/>
+
+</div>
+
+---
+
+# 🐍 My Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/muskanm07/muskanm07/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+> **Want this animation to work?** Add the GitHub Actions workflow from the `Platane/snk` project to generate the SVG automatically.
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+```text
+TypeScript
+   │
+   ├── Better React architecture
+   ├── Stronger type safety
+   └── Cleaner scalable code
+
+Frontend + AI
+   │
+   ├── Gemini API
+   ├── AI-powered UX
+   └── Practical AI integrations
+
+Frontend Engineering
+   │
+   ├── Better component design
+   ├── Performance
+   ├── Accessibility
+   └── Production-ready applications
+```
+
+</div>
+
+---
+
+# 🎯 2026 → Build More. Ship More.
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ⚛️
+
+**React**
+
+Build stronger frontend fundamentals.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔷
+
+**TypeScript**
+
+Write safer, scalable code.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI**
+
+Create useful AI-powered UX.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Ship**
+
+Turn ideas into real products.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in:
+
+**Frontend opportunities · Interesting products · AI × Web ideas · Collaboration**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/muskan-maurya-1344202b2/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:muskanmaurya553@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/muskanm07">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💜 If something here catches your eye, let's build something together.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+### `console.log("Thanks for visiting! 🚀");`
+
+**Made with curiosity, caffeine & a lot of debugging.**
 
 </div>
